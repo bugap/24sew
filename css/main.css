@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #ffe6e9;
+}
+
+h1 {
+  color: #992112;
+  font-size: 35px;
+}
+
+/*# sourceMappingURL=main.css.map */
